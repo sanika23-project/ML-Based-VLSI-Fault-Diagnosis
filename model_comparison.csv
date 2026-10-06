@@ -1,0 +1,6 @@
+Model,Accuracy (%)
+Random Forest,84.62
+Extra Trees,84.77
+Gradient Boosting,85.38
+SVM,84.0
+KNN,82.92
